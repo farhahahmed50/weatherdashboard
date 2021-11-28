@@ -1,0 +1,42 @@
+.search-column{
+    background-color: rgb(228, 218, 218);
+}
+
+.list-group-item{
+    line-height: 0.5;
+    border: none;
+}
+.card-body{
+    flex:auto
+}
+
+span.severe{
+    padding: 3px;
+    background-color: red;
+    color:white;
+}
+
+span.moderate{
+    padding: 3px;
+    background-color: yellow;
+}
+
+span.favorable{
+    padding: 3px;
+    background-color: green;
+    color:white;
+}
+
+h5{
+    text-decoration: underline;
+}
+
+#header{
+    color: crimson;
+    justify-content: center;
+   
+}
+
+body{
+    background-color:whitesmoke ;
+}
